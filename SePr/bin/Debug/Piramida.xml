@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Piramida>
+  <Uczestnik id="1">
+    <Uczestnik id="2"/> 
+    <Uczestnik id="3">
+      <Uczestnik id="4">
+        <Uczestnik id="5"/>
+        <Uczestnik id="6"/>
+        <Uczestnik id="7">
+          <Uczestnik id="8"/>
+        </Uczestnik>
+      </Uczestnik>
+      </Uczestnik>
+    </Uczestnik>
+</Piramida>

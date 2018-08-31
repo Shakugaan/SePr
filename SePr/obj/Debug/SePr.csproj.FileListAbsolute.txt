@@ -1,0 +1,7 @@
+D:\Projects\Zadanie dla Sente\SePr\SePr\bin\Debug\SePr.exe.config
+D:\Projects\Zadanie dla Sente\SePr\SePr\bin\Debug\SePr.exe
+D:\Projects\Zadanie dla Sente\SePr\SePr\bin\Debug\SePr.pdb
+D:\Projects\Zadanie dla Sente\SePr\SePr\obj\Debug\SePr.csprojResolveAssemblyReference.cache
+D:\Projects\Zadanie dla Sente\SePr\SePr\obj\Debug\SePr.csproj.CoreCompileInputs.cache
+D:\Projects\Zadanie dla Sente\SePr\SePr\obj\Debug\SePr.exe
+D:\Projects\Zadanie dla Sente\SePr\SePr\obj\Debug\SePr.pdb

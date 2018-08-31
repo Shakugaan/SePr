@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Przelewy>
+  <Przelew id="2">
+    <Wartość kwota="100"/>
+  </Przelew>
+  <Przelew id="3">
+    <Wartość kwota="50"/>
+  </Przelew>
+  <Przelew id="4">
+    <Wartość kwota="75"/>
+  </Przelew>
+  <Przelew id="4">
+    <Wartość kwota="20"/>
+  </Przelew>
+  <Przelew id="7">
+    <Wartość kwota="250"/>
+  </Przelew>
+  <Przelew id="8">
+    <Wartość kwota="350"/>
+  </Przelew>
+</Przelewy>
